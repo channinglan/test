@@ -9,6 +9,8 @@
 #include <sys/types.h>
 #include <sys/ioctl.h>
 
+test
+
 typedef struct {
 	unsigned int adc_ch;
 	unsigned int bass_voltage;

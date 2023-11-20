@@ -9,8 +9,8 @@
 #include <sys/types.h>
 #include <sys/ioctl.h>
 
-#include "../30.GPIO/gpio.h"
-
+//#include "../30.GPIO/gpio.h"
+#include "gpio.h"
 
 typedef struct {
 	unsigned int adc_ch;

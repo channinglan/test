@@ -9,7 +9,7 @@
 #include <sys/types.h>
 #include <sys/ioctl.h>
 
-test
+//test
 
 typedef struct {
 	unsigned int adc_ch;
